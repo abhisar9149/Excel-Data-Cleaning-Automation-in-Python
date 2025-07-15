@@ -33,7 +33,7 @@ Sample invalid values:
    Quantity  Price Per Unit  Total Spent
 0         3             5.0           14
 1         2             7.0           15
-...
+```
 
 # 📊 Before vs After Example
 
@@ -42,12 +42,3 @@ Sample invalid values:
 
 ### 🟩 After Cleaning:
 ![After Cleaning](after.png)
-
-
-
-
-
-
-
-
-

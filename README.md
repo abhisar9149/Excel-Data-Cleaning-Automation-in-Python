@@ -34,3 +34,20 @@ Sample invalid values:
 0         3             5.0           14
 1         2             7.0           15
 ...
+
+# 📊 Before vs After Example
+
+### 🟥 Before Cleaning:
+![Before Cleaning](before.png)
+
+### 🟩 After Cleaning:
+![After Cleaning](after.png)
+
+
+
+
+
+
+
+
+
